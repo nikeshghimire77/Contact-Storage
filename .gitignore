@@ -1,0 +1,5 @@
+/client/build
+node_modules
+
+DS_STORE
+/client/env.local
