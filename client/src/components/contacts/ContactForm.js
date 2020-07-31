@@ -40,6 +40,7 @@ export const ContactForm = () => {
     }
     clearAll();
   };
+  
   const clearAll = () => {
     clearCurrent();
   };
